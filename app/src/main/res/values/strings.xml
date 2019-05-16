@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoDatabaseCRUD</string>
+    <string name="enterdata">Enter data to be inserted here:</string>
+    <string name="etContent" />
+</resources>
